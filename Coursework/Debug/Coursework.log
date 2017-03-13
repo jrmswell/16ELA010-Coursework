@@ -1,4 +1,5 @@
 ﻿  ela010task2.c
-c:\users\chees\source\repos\16ela010-coursework\coursework\ela010task2.c(10): warning C4013: 'exit' undefined; assuming extern returning int
+c:\users\chees\source\repos\16ela010-coursework\coursework\ela010task2.c(11): warning C4013: 'exit' undefined; assuming extern returning int
+c:\users\chees\source\repos\16ela010-coursework\coursework\ela010task2.c(6): warning C4101: 'array': unreferenced local variable
   Coursework.vcxproj -> C:\Users\chees\Source\Repos\16ELA010-Coursework\Coursework\Debug\Coursework.exe
   Coursework.vcxproj -> C:\Users\chees\Source\Repos\16ELA010-Coursework\Coursework\Debug\Coursework.pdb (Partial PDB)
