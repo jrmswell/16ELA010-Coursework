@@ -3,14 +3,23 @@
 
 main()
 {
-	int array[12][4];
+	int i, j, k, array[10][40];
 	FILE *f = fopen("file.ppm", "w");
 	if (f == NULL)
 	{
 		printf("Oops, we cannot open the specified file\n");
 		exit(1);
 	}
-	const char *text = "P3\n4 4\n15\n0 0 0 0 0 0 0 0 0 15 0 15\n0 0 0 0 15 7 0 0 0 0 0 0\n0 0 0 0 0 0 0 15 7 0 0 0\n15 0 15 0 0 0 0 0 0 0 0 0"; //
-	fprintf(f, "%s\n", text);
+	
+	fprintf(f, "P3\n10 10\n48\n");
+	for (i = 0; i < 10; i++)
+	{
+		for (j = 0; j < 40; j++)
+		{
+			array[i][j] = i+j;
+			fprintf(f, "%d%d%d ", array[i][j], array[i][j], array[i][j]);
+		}
+		fprintf(f, "\n");
+	}
 	fclose(f);
 }
