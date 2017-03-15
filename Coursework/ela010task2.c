@@ -1,6 +1,8 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <math.h>
+#include <stdlib.h>
+#include <stdint.h>
 #define width 256
 #define height 256
 #define colour 256
