@@ -33,7 +33,7 @@ Please write each variable on a new line. For example:
 ```
 
 Would produce a wave with a frequency of 2, amplitude of 50 pixels and a colour of red as seen below:
-![Sine Wave](https://github.com/jrmswell/16ELA010-Coursework/blob/master/file.png)
+![Sine Wave](https://raw.githubusercontent.com/jrmswell/16ELA010-Coursework/master/file.png)
 
 ## 4) Exports your parameters to a .PPM file then opens it
 
