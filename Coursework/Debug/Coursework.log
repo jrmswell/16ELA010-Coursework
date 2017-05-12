@@ -1,7 +1,7 @@
 ﻿  ela010task2.c
-c:\users\chees\source\repos\16ela010-coursework\coursework\ela010task2.c(35): warning C4129: '-': unrecognized character escape sequence
-c:\users\chees\source\repos\16ela010-coursework\coursework\ela010task2.c(16): warning C4101: 'impath': unreferenced local variable
-c:\users\chees\source\repos\16ela010-coursework\coursework\ela010task2.c(14): warning C4101: 'impfile': unreferenced local variable
-c:\users\chees\source\repos\16ela010-coursework\coursework\ela010task2.c(109): warning C4101: 'impbstr': unreferenced local variable
+c:\users\chees\source\repos\16ela010-coursework\coursework\ela010task2.c(36): warning C4129: '-': unrecognized character escape sequence
+c:\users\chees\source\repos\16ela010-coursework\coursework\ela010task2.c(17): warning C4101: 'impath': unreferenced local variable
+c:\users\chees\source\repos\16ela010-coursework\coursework\ela010task2.c(15): warning C4101: 'impfile': unreferenced local variable
+c:\users\chees\source\repos\16ela010-coursework\coursework\ela010task2.c(110): warning C4101: 'impbstr': unreferenced local variable
   Coursework.vcxproj -> C:\Users\chees\Source\Repos\16ELA010-Coursework\Coursework\Debug\Coursework.exe
   Coursework.vcxproj -> C:\Users\chees\Source\Repos\16ELA010-Coursework\Coursework\Debug\Coursework.pdb (Partial PDB)

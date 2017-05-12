@@ -1,4 +1,5 @@
 #define _CRT_SECURE_NO_WARNINGS //Allows for the use of functions that are deemed "unsafe" such as scanf()
+//Sine Wave generator: Created by James Marsh B618112 at Loughborough University for 16ELA010
 #include <stdio.h>
 #include <math.h>
 #include <stdlib.h>
