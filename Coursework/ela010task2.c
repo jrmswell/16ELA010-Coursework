@@ -46,7 +46,7 @@ int main()
 			system("pause"); //Holds the program to let the user read the text above without being disturbed (Note: only works on windows however for some reason getchar() was being ignored)
 			printf("\n\nThis brings you to the create screen, here you can specify the amplitude, frequency and colour of your sine wave.\nThis program walks you through the process so there's no need to learn anything.\nYou can repeat this step as many times as you would like\n");
 			system("pause");
-			printf("\n\n\t3) Import parameters\n\nThis brings you to a screen that allows you to import a Plain-Text document (we recommend a .txt file due to them being commonplace)\n");
+			printf("\n\n\t3) Import parameters\n\nThis brings you to a screen that allows you to import a Plain-Text document (we recommend a .txt file due to them being commonplace)\nPlease write each variable on a new line");
 			system("pause");
 			printf("\n\n\t4) Exports your parameters to a .PPM file then opens it\n\nThis program asks you where you would like to save. Please remember to include the file type however\nWe recommend saving as a .ppm file since the contents will be saved in the .ppm format\nWe have not restricted you to the .ppm extension however in case you plan to do something else with the file\n\nAfter saving the program will end\n");
 			system("pause");
