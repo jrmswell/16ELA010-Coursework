@@ -1,4 +1,7 @@
 ﻿  ela010task2.c
+c:\users\chees\source\repos\16ela010-coursework\coursework\ela010task2.c(35): warning C4129: '-': unrecognized character escape sequence
+c:\users\chees\source\repos\16ela010-coursework\coursework\ela010task2.c(115): warning C4020: 'fopen': too many actual parameters
+c:\users\chees\source\repos\16ela010-coursework\coursework\ela010task2.c(131): warning C4020: 'system': too many actual parameters
 c:\users\chees\source\repos\16ela010-coursework\coursework\ela010task2.c(16): warning C4101: 'impath': unreferenced local variable
 c:\users\chees\source\repos\16ela010-coursework\coursework\ela010task2.c(14): warning C4101: 'impfile': unreferenced local variable
 c:\users\chees\source\repos\16ela010-coursework\coursework\ela010task2.c(83): warning C4101: 'impbstr': unreferenced local variable

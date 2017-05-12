@@ -109,8 +109,10 @@ int main()
 
 	while (menu == 4)
 	{
+		char savepoint[100];
 		printf("-----> Export\n\nThank you, we are now generating your PPM file\n\n");
-		FILE *f = fopen("file.ppm", "w");
+		scanf("%s", &savepoint);
+		FILE *f = fopen("%s", "w", savepoint);
 		if (f == NULL)
 		{
 			printf("Oops, we cannot open the specified file\n");
@@ -126,7 +128,7 @@ int main()
 				}
 			fclose(f);
 			printf("Ok, your file is ready, we are now attempting to open it in your viewer of choice.\nThe program will not continue until you close the viewer\n\n");
-			system("file.ppm");
+			system("%s", f);
 			printf("Ok, we have finished generating your wave. Is there anything else you'd like to do whilst you are here?\n\nYour options are:%sPlease enter the corresponding number\n\n", options);
 			scanf("%d", &menu);
 		}
