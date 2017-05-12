@@ -1,6 +1,8 @@
 # Intro
 The task was to write a program that will draw sine waves and output them as a full colour image in the .ppm file format
 
+[Download the .exe](https://github.com/jrmswell/16ELA010-Coursework/releases)
+
 # Help
 This program is designed to generate a sine wave using the parameters you set and then save them to a .ppm compatible file
 
