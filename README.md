@@ -46,6 +46,8 @@ We have not restricted you to the .ppm extension however in case you plan to do 
 
 After saving the program will end
 
+You will need a compatible viewer, one viewer that we recommend is the free IrfanView which can be downloaded from [here](http://www.irfanview.com/)
+
 ## 5) Exits the program
 
 Stops the program
